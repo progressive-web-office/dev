@@ -1,0 +1,6 @@
+[submodule "progressive-web-office.github.io"]
+	path = progressive-web-office.github.io
+	url = https://github.com/progressive-web-office/progressive-web-office.github.io.git
+[submodule ".github"]
+	path = dot-github
+	url = https://github.com/progressive-web-office/.github.git
